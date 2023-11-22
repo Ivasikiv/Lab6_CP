@@ -1,0 +1,90 @@
+{
+    "season tickets": [
+        {"first_name": "Ivasikiv", "last_name" : "Dmytro", "middle_name" : "Viktorovych", "email": "dmytro@gmail.com", "books" : [
+
+        ]},
+
+        {"first_name":  "User2", "last_name": "User2" , "middle_name":  "User2", "email":  "user2@email.com",
+            "books": [
+                {"title" : " One Hundred Years of Solitude", "author": "Gabriel Garcia Marquez", "publish_year": 1942, "dates": [
+                    {"pickup_date": 1667280000, "expected_return_date": 1668912000}
+                ]},
+
+                {"title" : "Madame Bovary", "author": "Gustave Flaubert", "publish_year": 1806, "dates": [
+                    {"pickup_date": 1665436800, "expected_return_date": 1668028800}
+                ]}
+
+
+            ]
+        },
+
+        {"first_name":  "User3", "last_name": "User3" , "middle_name":  "User3", "email":  "user3@gmail.com",
+            "books": [
+                {"title" : " The Great Gatsby", "author": "F. Scott Fitzgerald", "publish_year": 1922, "dates": [
+                    {"pickup_date": 1667280000, "expected_return_date": 1669961600, "actual_return_date": 1670740000},
+                    {"pickup_date": 1668912000, "expected_return_date": 1671590400}
+                ]}
+            ]
+        },
+
+        {"first_name":  "User4", "last_name": "User4" , "middle_name":  "User4", "email":  "user4@email.com",
+            "books": [
+                {"title" : "Moby Dick", "author": "Herman Melville", "publish_year": 1851, "dates": [
+                    {"pickup_date": 1604188800, "expected_return_date": 1604188800,  "actual_return_date": 1604188800},
+                    {"pickup_date": 1667107200, "expected_return_date": 1669785600}
+                ]}
+            ]
+        },
+
+        {"first_name":  "User5", "last_name": "User5" , "middle_name":  "User5", "email":  "user5@gmail.com",
+            "books": [
+                {"title" : "Hamlet", "author": "William Shakespeare", "publish_year": 1601, "dates": [
+                    {"pickup_date": 1665436800, "expected_return_date": 1668028800}
+                ]},
+
+                {"title" : "The Odyssey", "author": "Homer", "publish_year": 120, "dates": [
+                    {"pickup_date": 1668835200, "expected_return_date": 1673760000}
+                ]}
+            ]
+        },
+
+        {"first_name":  "User6", "last_name": "User6" , "middle_name":  "User6", "email":  "user6@email.com",
+            "books": [
+                {"title" : "1984", "author": "George Orwell", "publish_year": 1949, "dates": [
+                    {"pickup_date": 1667280000, "expected_return_date": 1669961600}
+                ]},
+
+                {"title" : "To Kill a Mockingbird", "author": "Harper Lee", "publish_year": 1960, "dates": [
+                    {"pickup_date": 1665436800, "expected_return_date": 1668028800}
+                ]}
+
+
+            ]
+        }
+    ],
+    "books": [
+        {"title" : "Ulysses", "author": "Leopold Bloom", "publish_year": 1904 , "dates": [
+            {"pickup_date": 1661365200, "expected_return_date": 1663957200, "actual_return_date": 1662661200}
+        ]},
+
+        {"title" : "Don Quixote", "author": "Miguel de Cervantes", "publish_year": 1846, "dates": [
+            {"pickup_date": 1667315600, "expected_return_date": 1670080400, "actual_return_date": 1670598800}
+        ]},
+
+        {"title" : "1984", "author": "George Orwell", "publish_year": 1950, "dates": [
+            {"pickup_date": 1672266000, "expected_return_date": 1672870800, "actual_return_date": 1672784400}
+        ]},
+
+        {"title" : "In Search of Lost Time", "author": "Marcel Proust", "publish_year": 1913, "dates": [
+            {"pickup_date": 1672266000, "expected_return_date": 1672870800, "actual_return_date": 1672784400}
+        ]},
+
+        {"title" : "To the Lighthouse", "author": "Virginia Woolf", "publish_year": 1927, "dates": [
+            {"pickup_date": 1661365200, "expected_return_date": 1663957200, "actual_return_date": 1662661200}
+        ]},
+
+        {"title" : "The Catcher in the Rye", "author": "J.D. Salinger", "publish_year": 1951, "dates": [
+            {"pickup_date": 1667315600, "expected_return_date": 1670080400, "actual_return_date": 1670598800}
+        ]}
+    ]
+}
